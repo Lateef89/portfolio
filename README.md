@@ -21,14 +21,20 @@
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## 🚀 WHAT I DO
 🔷 Predictive Modelling & ML Deployment
+
 🔷 Exploratory Data Analysis
+
 🔷 Mathematical Programming Research
 
 ## Selected Achievements
 ✅ Built a smart logistics assistant chatbot using LLMs + RAG to streamline supplier insights
+
 ✅ Developed an ETA prediction model (87% accuracy) to reduce shipment delays
+
 ✅ Automated logistics tracking with Power BI + power Automate, cutting manual workload by 65%
+
 ✅ Deployed 15+ machine learning models using FastAPI. Streamlit and GitHub Actions
+
 ✅ Spearheaded adoption of CI/CD pipelines for retraining models with zero-touch deployment
 
 ## 🎓 Education & Certifications
