@@ -2,11 +2,20 @@
 ## 👏Hi, I'm Lateef Olakunle Jolaoso
 ### 💼 Data Scientist (Analytics, BI & AI)
 
-👉 Welcome to my GitHub! I’m a Senior Data Scientist (Analytics & AI) with experience applying data science, optimization, and business intelligence to drive decision-making and process improvement across logistics, finance, and operations.
+👉 **Welcome to my GitHub!** I’m a Senior Data Scientist (Analytics & AI) with experience applying data science, optimization, and business intelligence to drive decision-making and process improvement across logistics, finance, and operations.
 
 👉 I previously served as a Lecturer in Mathematical Sciences at the University of Southampton (UK), where I taught Operational Research, Python Programming, Data Analysis, and Financial Portfolio Theory. My academic background underpins my applied work, and I have authored 50+ peer-reviewed publications with 1,900+ citations.
 
 👉 This portfolio showcases selected projects in data science, business analytics, optimization research, and AI, with an emphasis on practical impact and reproducible workflows.
+
+## 🔧 Core Competencies
+- **Data Science & ML**: Python (Pandas, Numpy), scikit-learn, TensorFlow, MLflow
+- **Model Deployment**: FastAPI, Streamlit, Docker, Swagger UI, GitHub Actions
+- **Business Intelligence**: Power BI, DAX, Power Automate, SQL (PostgreSQL, MySQL)
+- **Process Optimization**: BPMN, SAP Signavio, Workflow Mapping, Lean Six Sigma
+- **Research & Development**: Statistical Analysics, Mathematical Programming, Optimization, Machine Learning
+- **Tools & Platforms**: Git, Excel, CI/CD, Exploratory Data Analysis, LLM-based-Assistants
+- **Programming**: Python, MATLAB, R, C#, SQL, LateX
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
