@@ -19,21 +19,27 @@
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## 🚀 WHAT I DO
+🔷 Predictive Modelling & ML Deployment
+🔷 Exploratory Data Analysis
+🔷 Mathematical Programming Research
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+## Selected Achievements
+✅ Built a smart logistics assistant chatbot using LLMs + RAG to streamline supplier insights
+✅ Developed an ETA prediction model (87% accuracy) to reduce shipment delays
+✅ Automated logistics tracking with Power BI + power Automate, cutting manual workload by 65%
+✅ Deployed 15+ machine learning models using FastAPI. Streamlit and GitHub Actions
+✅ Spearheaded adoption of CI/CD pipelines for retraining models with zero-touch deployment
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+## 🎓 Education & Certifications
+📃 PGCert (Teaching and Learning) - University of Southampton, UK | Oct. 2022 - Jul 2024
+🎓 PhD. Mathematics (Optimization Algorithms and Machine Learning) - UKZN, South Africa | Jul 2017 - Nov 2019
+📚 MSc. Mathematics (Distinction) - UKZN, South Africa | Jul 2016 - Jun 2017
+🧠 BSc. Mathematics - FUNAAB, Nigeria | Oct 2009 - Jan 2014
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
-
-
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
-
-*A glimpse of some of the projects I've been working on.*
+## 🛠️Featured Projects
+📌 Predictive Shipment Delay Model - Python, MLflow, Power BI
+📌 CI/CD ML Pipeline - GitHub Actions, FastAPI, Docker
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 ![image](1 anietie etuk data analytics car project.jpeg)
@@ -67,19 +73,19 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:Lateefjolaoso89@gmail.com">anietieetuk@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>+447576965683</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Southampton, United Kingdom</td>
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="(https://drive.google.com/file/d/10PLPocRZT060MmJpZBtneEMWlbaUaNUV/view?usp=drive_link)">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
